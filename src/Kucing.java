@@ -39,7 +39,7 @@ public class Kucing {
         tia.infoKucingRawrHD();
         tia.makan();
         tia.ngeong();
-        tia.turu();gay kontol
+        tia.turu();
         System.out.println("");
 
         Kucing arifin = new Kucing("Arifin", 2, "Jantan", "Himalaya", "Putih");
